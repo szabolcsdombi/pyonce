@@ -1,4 +1,4 @@
-# pyonce
+# [pyonce](https://pypi.org/project/pyonce/)
 
 Run code once! -- or once in a while...
 
